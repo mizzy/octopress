@@ -2,6 +2,8 @@
 .DS_Store
 .sass-cache
 .gist-cache
+.twan-cache
+.vimeo-cache
 .pygments-cache
 _deploy
 public

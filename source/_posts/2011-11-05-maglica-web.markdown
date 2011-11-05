@@ -6,6 +6,8 @@ comments: true
 categories: 
 ---
 
+[Maglica Web is on GitHub](https://github.com/mizzy/maglica-web)
+
 {% img http://img.logpi.jp/C58B4476-0769-11E1-8C19-9A01CD288735_o.png %}
 {% img http://img.logpi.jp/024C01C4-05FE-11E1-A49E-9848058D85C2_o.jpg %}
 {% img http://img.logpi.jp/01A75D3C-05E9-11E1-99E8-9701CD288735_o.jpg %}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maglica Presentation On Hatena"
+title: "Maglica Presentation At Hatena"
 date: 2011-12-13 21:14
 comments: true
 categories: 

@@ -1,8 +1,13 @@
+@font-face { 
+  font-family: "Tenjin";
+  src: url("/Tenjin.otf") format("opentype")
+}
+
 $blockquote: $type-border !default;
 $sans: "PT Sans", "Helvetica Neue", Arial, sans-serif !default;
 $serif: "PT Serif", Georgia, Times, "Times New Roman", serif !default;
 $mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace !default;
-$heading-font-family: "PT Serif", "Georgia", "Helvetica Neue", Arial, sans-serif !default;
+$heading-font-family: "Tenjin", "PT Serif", "Georgia", "Helvetica Neue", Arial, sans-serif !default;
 $header-title-font-family: $heading-font-family !default;
 
 // Fonts
@@ -14,7 +19,7 @@ $header-title-font-family: $heading-font-family !default;
 .mono { font-family: $mono; }
 
 body > header h1 {
-  font-size: 2.2em;
+  font-size: 3em;
   @extend .heading;
   font-family: $header-title-font-family;
   font-weight: normal;
@@ -28,7 +33,7 @@ body {
   @extend .serif;
 }
 h1 {
-  font-size: 2.2em;
+  font-size: 2.5em;
   line-height: 1.2em;
 }
 

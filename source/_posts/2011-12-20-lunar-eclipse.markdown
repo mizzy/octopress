@@ -16,6 +16,6 @@ Three red stars.(Moon, Betelgeuse and Aldebaran)
 
 {% img /images/2011/12/three-red-stars.jpg Three Red Stars %}
 
-This is the composite picture from the penumbral eclipse to the beginning of the total eclipse
+This is the composite picture from the penumbral eclipse to the beginning of the total eclipse.
 
 {% img /images/2011/12/composite-of-lunar-eclipse.jpg Composite %}

@@ -8,7 +8,7 @@ categories:
 
 This is a picture of a shooting star of Gemnids I took on Dec. 15, 2011.I took over 2,000 pictures and only 3 pictures got a shooting star.
 
-{% img /images/geminids-shooting-star.jpg A shooting star of Geminids %}
+{% img /images/2011/12/geminids-shooting-star.jpg A shooting star of Geminids %}
 
 A red bright star on left side is Aldebaran of Taurus and dense small stars on center are Pleiades.
 

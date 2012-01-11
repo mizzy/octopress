@@ -75,7 +75,7 @@ JSON データは以下のようになっています。
          * サブセクションページの URI
 
 
-JSON データは現在のところ、[Getting Real](http://gettingreal.37signals.com/toc.php)用のものと [SICP](http://mitpress.mit.edu/sicp/full-text/book/book.html) 用のものを [こちら](http://mizzy.org/webiblo/) で公開しています。
+JSON データは現在のところ、[Getting Real](http://gettingreal.37signals.com/toc.php) 用のものと [SICP](http://mitpress.mit.edu/sicp/full-text/book/book.html) 用のものを [こちら](http://mizzy.org/webiblo/) で公開しています。
 
 JSON データは GitHub リポジトリの gh-pages ブランチに置いてあるので、独自の JSON データを作成した方は pull request 送ってもらえるとうれしいです。
 

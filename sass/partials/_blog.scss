@@ -81,7 +81,9 @@ article {
       @extend .separator;
     }
   }
-
+  ul {
+      margin-left: 5%;
+  }
 }
 article + article {
   .blog-index & {

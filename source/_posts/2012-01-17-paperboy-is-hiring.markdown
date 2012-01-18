@@ -39,4 +39,4 @@ categories:
 
 興味のある方、もっと具体的な話が聞いてみたい、という方は、[twitter](http://twitter.com/gosukenator) や [facebook](http://www.facebook.com/gosukenator) などで、お気軽にお声掛けください。
 
-他にも、東京、福岡で[様々な職種で人材募集中です](https://js01.jposting.net/paperboy/u/recruit/job.phtml)。
+他にも、東京、京都、福岡で[様々な職種で人材募集中です](https://js01.jposting.net/paperboy/u/recruit/job.phtml)。

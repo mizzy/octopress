@@ -16,7 +16,7 @@ categories:
 
     $ webiblo.pl http://mizzy.org/webiblo/data/Getting_Real.json
 
-といった感じで、JSON が記述された URL を指定するか、｀
+といった感じで、JSON が記述された URL を指定するか、
 
     $ cat data.json | webiblo.pl
 

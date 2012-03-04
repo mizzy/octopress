@@ -14,6 +14,7 @@ group :development do
   gem 'stringex'
   gem 'liquid', '2.2.2'
   gem 'multi_json'
+  gem 'rakuten'
 end
 
 gem 'sinatra', '1.2.6'
